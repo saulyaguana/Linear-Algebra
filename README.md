@@ -6,4 +6,4 @@
 
 + Tambien se usa **Matplotlib** para hacer algunas gráficas como en los sistemas de ecuaciones
 
-+ En la carpet **src** están los archivos con extensión .ipynb donde están numeradas desde el principio al final
++ En la carpeta **src** están los archivos con extensión .ipynb donde están numeradas desde el principio al final
